@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.encabezado{
+    background-color: #B5FF33;
+    height: 120px;
+    box-shadow: 2px 2px 5px;
+}
+h1{
+    text-align: center;
+    height: 120px;
+}
+.logo{
+    height: 140px;
+    width: 200px;
+    filter: brightness(1.1);
+	mix-blend-mode: multiply;
+}
+.principal{
+    background-color: #C6EF7E;
+    width: 70%;
+    margin: 50px auto;
+    border-radius: 10px;
+}
+.subtitulo{
+    font-size: 1.6em;
+    font-style: italic;
+    text-align: center;
+    padding: 15px;
+}
+.lista-productos{
+    list-style: none;
+    width: 100%;
+    margin-bottom: 90px;
+    padding-top: 15px;
+}
+li{
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+}
+p{
+    font-size: 1.2em;
+    width: 250px
+}
+.mostrar{
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    color: #000000;
+}
+.boton{
+    width: 130px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: #B5FF33;
+    display: block;
+    margin: auto;
+}
+li:hover{
+    background-color: #78B015;
+}
+.boton:hover{
+    cursor: pointer;
+    background-color: #78B015;
+}

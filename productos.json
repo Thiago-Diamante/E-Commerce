@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "nombre": "Laptop Dell XPS 13",
+      "descripcion": "La Dell XPS 13 es una laptop ultradelgada con una pantalla InfinityEdge que ofrece una experiencia visual impresionante. Equipada con un procesador potente, es ideal para la productividad y el entretenimiento en movimiento.",
+      "precio": 19.99,
+      "imagen": "multimedia/producto1.jpg",
+      "categoria": "Electrónica"
+    },
+    {
+      "id": 2,
+      "nombre": "iPhone 13 Pro",
+      "descripcion": "El iPhone 13 Pro es el último smartphone de Apple. Con su potente procesador, cámara avanzada y pantalla ProMotion, ofrece un rendimiento excepcional y calidad de imagen.",
+      "precio": 29.99,
+      "imagen": "multimedia/producto2.jpg",
+      "categoria": "Ropa"
+    },
+    {
+      "id": 3,
+      "nombre": "Samsung QLED 4K TV",
+      "descripcion": "Este televisor QLED 4K de Samsung ofrece una calidad de imagen espectacular y colores vibrantes. Con tecnología Smart TV, puedes acceder a una variedad de aplicaciones y servicios de transmisión.",
+      "precio": 9.99,
+      "imagen": "multimedia/producto3.jpg",
+      "categoria": "Hogar"
+    },
+    {
+      "id": 4,
+      "nombre": "MacBook Air M1",
+      "descripcion": "La MacBook Air con chip M1 de Apple es una laptop ultraligera y ultrarrápida. Ofrece un rendimiento sorprendente y una duración de batería excepcional.",
+      "precio": 49.99,
+      "imagen": "multimedia/producto4.jpg",
+      "categoria": "Electrónica"
+    },
+    {
+      "id": 5,
+      "nombre": "Cámara Canon EOS 90D",
+      "descripcion": "La Canon EOS 90D es una cámara DSLR versátil que captura fotos y videos de alta calidad. Con funciones avanzadas, es perfecta para entusiastas de la fotografía.",
+      "precio": 14.99,
+      "imagen": "multimedia/producto5.jpg",
+      "categoria": "Ropa"
+    },
+    {
+      "id": 6,
+      "nombre": "Oculus Quest 2",
+      "descripcion": "Oculus Quest 2 es un visor de realidad virtual que te permite sumergirte en experiencias VR increíbles. Es autónomo y fácil de usar.",
+      "precio": 39.99,
+      "imagen": "multimedia/producto6.jpg",
+      "categoria": "Hogar"
+    },
+    {
+      "id": 7,
+      "nombre": "Altavoz inteligente Amazon Echo",
+      "descripcion": "El altavoz inteligente Amazon Echo te permite controlar tu hogar inteligente, reproducir música, obtener respuestas a tus preguntas y más mediante comandos de voz.",
+      "precio": 24.99,
+      "imagen": "multimedia/producto7.jpg",
+      "categoria": "Hogar"
+    },
+    {
+      "id": 8,
+      "nombre": "PlayStation 5",
+      "descripcion": "La PlayStation 5 es la consola de próxima generación de Sony. Ofrece gráficos impresionantes y una amplia biblioteca de juegos para una experiencia de juego inmersiva.",
+      "precio": 54.99,
+      "imagen": "multimedia/producto8.jpg",
+      "categoria": "Deportes"
+    },
+    {
+      "id": 9,
+      "nombre": "Router Wi-Fi Mesh Eero",
+      "descripcion": "Eero es un sistema de Wi-Fi Mesh que proporciona una cobertura Wi-Fi sólida en todo tu hogar. Es ideal para eliminar los puntos muertos de Wi-Fi.",
+      "precio": 12.99,
+      "imagen": "multimedia/producto9.jpg",
+      "categoria": "Ropa"
+    },
+    {
+      "id": 10,
+      "nombre": "iPad Pro (última generación)",
+      "descripcion": "El iPad Pro es una potente tableta de Apple con una pantalla Liquid Retina y compatibilidad con el Apple Pencil. Es perfecto para la productividad y el diseño.",
+      "precio": 34.99,
+      "imagen": "multimedia/producto10.jpg",
+      "categoria": "Electrónica"
+    },
+    {
+      "id": 11,
+      "nombre": "Drone DJI Mavic Air 2",
+      "descripcion": "El drone DJI Mavic Air 2 es una maravilla de la tecnología de drones. Captura fotos y videos en 4K con estabilización avanzada y características de vuelo inteligentes.",
+      "precio": 22.99,
+      "imagen": "multimedia/producto11.jpg",
+      "categoria": "Hogar"
+    },
+    {
+      "id": 12,
+      "nombre": "Auriculares Sony WH-1000XM4",
+      "descripcion": "Estos auriculares con cancelación de ruido de Sony ofrecen una calidad de sonido excepcional y comodidad durante todo el día. Son ideales para la música y llamadas.",
+      "precio": 47.99,
+      "imagen": "multimedia/producto12.jpg",
+      "categoria": "Electrónica"
+    },
+    {
+      "id": 13,
+      "nombre": "Consola Xbox Series X",
+      "descripcion": "La Xbox Series X es la consola de próxima generación de Microsoft. Ofrece un rendimiento impresionante y acceso a una amplia gama de juegos.",
+      "precio": 18.99,
+      "imagen": "multimedia/producto13.jpg",
+      "categoria": "Deportes"
+    },
+    {
+      "id": 14,
+      "nombre": "Monitor Dell Ultrasharp 4K",
+      "descripcion": "Este monitor Dell Ultrasharp 4K es perfecto para tareas de diseño y multimedia. Ofrece una alta resolución y colores precisos.",
+      "precio": 39.99,
+      "imagen": "multimedia/producto14.jpg",
+      "categoria": "Ropa"
+    },
+    {
+      "id": 15,
+      "nombre": "Asistente virtual Google Nest Hub",
+      "descripcion": "El Google Nest Hub es un asistente virtual con pantalla que te ayuda a controlar tu hogar inteligente, ver videos y obtener información útil con comandos de voz.",
+      "precio": 29.99,
+      "imagen": "multimedia/producto15.jpg",
+      "categoria": "Coleccionables"
+    }
+  ]
+  
